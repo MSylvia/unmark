@@ -2,7 +2,7 @@
   "name": "Unmark",
   "url": "http://unmark.it",
   "version": "0.3.5",
-  "description": "An open source bookmarking service.",
+  "description": "An open source bookmarking service. Test change",
   "author": "http://plainmade.com",
   "main": "Gruntfile.js",
   "devDependencies": {
